@@ -1,6 +1,6 @@
 # HTML-CSS-W2-InClassProject
 
-## Aim
+## Aims
 
 - use CSS grid
 - use CSS flexbox
